@@ -1,13 +1,15 @@
 body {
         font-family: Arial, Helvetica, sans-serif;
         text-decoration-color: #371f0e;
-        background-color: #ffb7cb;
+        background-color: #ffc1d4;
     }
             
     h1 {
             color: #fce3eb;
+            text-shadow: #f997b6 2px 2px 0px, #371f0e 4px 4px 0px;
             background-color: #371f0e;
-            padding: .25rem;
+            padding: .5rem;
+            max-width: fit-content;
                 text-transform: lowercase;
                 letter-spacing: 0.25rem;
                 word-spacing: .15em;
@@ -17,6 +19,7 @@ body {
             color: #371f0e;
             background-color: #f997b6;
             padding: .25rem;
+            max-width: fit-content;
                 text-transform: lowercase;
                 letter-spacing: 0.1rem;
                 word-spacing: .1em;
@@ -32,10 +35,23 @@ body {
          }
 
             img {
-                float: left;
+                float: right;
                 border: 2px solid #371f0e;
-                margin: .75rem;
                 max-width: 100%;
+            }
+            figure {
+                float: right;
+                ;
+                margin: 1.5rem;
+
+                max-width: 50%;
+            }
+            figcaption {
+                background-color: #f997b6;
+                padding: .2rem;
+                font-family: Alyamama, Arial, sans-serif;
+                text-align: center;
+                
             }
             hr {
                 border: 1px dashed #371f0e;
