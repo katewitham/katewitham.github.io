@@ -1,0 +1,81 @@
+body {
+        font-family: 'Amaranth', Arial, sans-serif;
+        text-decoration-color: #2b2722;
+        background-color: #d7bba4;
+    }
+            
+   h1 {
+    font-family: 'Lobster', Arial, sans-serif;   
+    color: #2b2722;
+    background-color: #ffe9cb;
+    text-shadow: #bda28c 3px 3px 0px, #2b2722 2px 2px 0px;
+    padding: .25rem;
+    max-width: fit-content;
+    text-transform: lowercase;
+    letter-spacing: 0.1rem;
+    font-size: 2.5rem;
+            
+    }
+    h2 {
+         font-family: 'Lobster', Arial, sans-serif;
+            color: #2b2722;
+            background-color: #ffe9cb;
+            padding: .25rem;
+            max-width: fit-content;
+                text-transform: lowercase;
+                letter-spacing: 0.1rem;
+         }
+    
+        p {
+            color: #2b2722;
+            margin: 1.5rem;
+                padding-left: 1.3rem;
+                padding-right: 1.3rem;
+                line-height: 1.5rem;
+         }
+
+            img {
+                float: right;
+                border: 2px solid #2b2722;
+                max-width: 100%;
+            }
+            figure {
+                float: right;
+                border: 2px solid #2b2722;
+                margin: 1.5rem;
+
+                max-width: 50%;
+            }
+            figcaption {
+                background-color: #ffe9cb;
+                padding: .2rem;
+                font-family: 'Amaranth', Arial, sans-serif;
+                text-align: center;
+                
+            }
+            hr {
+                border: 2px dotted #2b2722;
+                margin: 0.5rem;
+            }
+
+    a:link {
+        color: #2b2722;
+        background-color: transparent;
+        text-decoration: underline;
+        text-decoration-color: #2b2722;
+        text-decoration-thickness: 1.5px;
+    }
+    a:visited {
+        color: #bda28c;
+    }
+    a:hover {
+        color: #bda28c;
+        background-color: #ffffff;
+        text-decoration: underline;
+        text-decoration-color: #bda28c;
+        text-decoration-thickness: 1px;
+    }
+    a:active {
+        color: #bda28c;
+        background-color: #2b2722;
+    }
