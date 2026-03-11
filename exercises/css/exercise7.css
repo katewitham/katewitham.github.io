@@ -1,0 +1,118 @@
+body {
+    background-image: radial-gradient(circle, #ff93c0, #ffe7c7, #f997b6);
+   
+}
+
+header {
+    background-color: #ffffff5a;
+    padding: 2rem;
+    text-align: right;
+    border-radius: 1.2rem;
+    font-family: 'Zain', Arial, sans-serif;
+    color: #ffffff;
+}
+
+    header a:link {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    header a:visited {
+        color: #9c5e67;
+        text-decoration: none;
+    }
+    header a:hover {
+        color: #9c5e67;
+        background-color: transparent;
+        text-decoration: underline;
+        text-decoration-color: #f997b6;
+        text-decoration-thickness: 1px;
+    }
+    header a:active {
+        color: #9c5e67; 
+        background-color: #f6b9bf;
+        text-decoration: underline;
+        text-decoration-color: #9c5e67;
+        text-decoration-thickness: 1px; 
+    }
+main {
+    border: 0px solid red;
+}
+
+
+article {
+    background-color: #ffffffec;
+    padding: 1.3rem;
+    margin: .5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 1.2rem;
+    filter: drop-shadow(.3rem .3rem .4rem #9c5e67);
+
+}
+
+footer {
+    background-color: #ffffff5a;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 1.2rem;
+}
+p.footer-text {
+    font-family: 'Zain', Arial, sans-serif;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Serif Display', Georgia, serif;
+    color: #9c5e67;
+}
+
+h2 {
+    font-family: 'Noto Serif Display', Georgia, serif;
+    color: #9c5e67;
+}
+p {
+    font-family: 'Zain', Arial, sans-serif;
+    color: #371f0e;
+    line-height: 1.5;
+}
+h2.logo {
+    text-align: center;
+    background-color: #f997b6;
+    background-image: radial-gradient(circle, #ffdba8, #f997b6);
+    width: 6rem;
+    height: 6rem;
+    display: grid;
+    align-items: center;
+    border-radius: 50%;
+    border-color: #f9f9f9;
+    border-width: 3px;
+    border-style: solid;
+}
+a:link {
+    color: #371f0e;
+    background-color: transparent;
+    text-decoration: underline;
+    text-decoration-color: #371f0e;
+    text-decoration-thickness: 1.5px;
+    }
+a:visited {
+    color: #9c5e67;
+    }
+a:hover {
+    color: #f997b6;
+    background-color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #f997b6;
+    text-decoration-thickness: 1px;
+    }
+a:active {
+    color: #9c5e67; 
+    background-color: #f6b9bf;
+    }
+
+.wrapper {
+    border: 0px solid #000000;
+    margin: 0 auto;
+    width: 40rem;
+}
