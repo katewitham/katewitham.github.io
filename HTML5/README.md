@@ -1,6 +1,10 @@
-# Overview!:smiling face with open hands:
+# Overview of MadCap Flare Project!
 ---
 This website, built using *MadCap Flare*, discusses accessibility in the digital age. As of right now, it includes a section introducing accessibility and another section showing users how to create chapter cards in ClipChamp. 
+
+## About Me
+
+Hello! My name is Kate Witham, I am a Political Science major and English minor at UMass Amherst.
 
 ## Introduction to Accessibility
 
