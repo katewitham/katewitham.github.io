@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2025 Generated HTML5.fltar" Date="2026-04-21T15:00:19.9472633-04:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2025 Generated HTML5.fltar" Date="2026-04-21T17:58:10.3796709-04:00">
     <Messages>Compiling target HTML5...
 Removing previously generated content...
 Loading skin info...
@@ -10,11 +10,56 @@ Processing Primary TOC...
 Generating Glossary...
 Collecting source files...
 Processing source files...
-Excluded from output:file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/E-Frontmatter-Topics/Title.htm.
+Excluded from output:file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject1/Content/E-Frontmatter-Topics/Title.htm.
 Processing CSS: Resources\Branding\Branding.css...
 Processing CSS: Resources\Stylesheets\Styles.css...
 Processing CSS: Resources\TableStyles\Alternate-Row-Color.css...
 Generating output files...
+Processing topic: A-Introduction-Topics\Getting-Started.htm...
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img7.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img7.png: ..\..\..\381FlareProject\Content\Resources\Images\img7.png
+Applying template page Other-Topics.flmsp...
+Generated A-Introduction-Topics\Getting-Started.htm
+Processing topic: A-Introduction-Topics\Whats-New.htm...
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img1.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img2.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img3.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img4.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img5.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img6.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img1.png: ..\..\..\381FlareProject\Content\Resources\Images\img1.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img2.png: ..\..\..\381FlareProject\Content\Resources\Images\img2.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img3.png: ..\..\..\381FlareProject\Content\Resources\Images\img3.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img4.png: ..\..\..\381FlareProject\Content\Resources\Images\img4.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img5.png: ..\..\..\381FlareProject\Content\Resources\Images\img5.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img6.png: ..\..\..\381FlareProject\Content\Resources\Images\img6.png
+Applying template page Other-Topics.flmsp...
+Generated A-Introduction-Topics\Whats-New.htm
+Processing topic: A-Introduction-Topics\More-Information.htm...
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img8.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img9.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img10.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img11.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img12.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img13.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img14.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img15.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img16.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img17.png
+Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img19.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img8.png: ..\..\..\381FlareProject\Content\Resources\Images\img8.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img9.png: ..\..\..\381FlareProject\Content\Resources\Images\img9.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img10.png: ..\..\..\381FlareProject\Content\Resources\Images\img10.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img11.png: ..\..\..\381FlareProject\Content\Resources\Images\img11.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img12.png: ..\..\..\381FlareProject\Content\Resources\Images\img12.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img13.png: ..\..\..\381FlareProject\Content\Resources\Images\img13.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img14.png: ..\..\..\381FlareProject\Content\Resources\Images\img14.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img15.png: ..\..\..\381FlareProject\Content\Resources\Images\img15.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img16.png: ..\..\..\381FlareProject\Content\Resources\Images\img16.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img17.png: ..\..\..\381FlareProject\Content\Resources\Images\img17.png
+Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img19.png: ..\..\..\381FlareProject\Content\Resources\Images\img19.png
+Applying template page Other-Topics.flmsp...
+Generated A-Introduction-Topics\More-Information.htm
 Processing topic: B-Feature-Topics\Features.htm...
 Applying template page Other-Topics.flmsp...
 Generated B-Feature-Topics\Features.htm
@@ -27,15 +72,6 @@ Generated B-Feature-Topics\Feature2.htm
 Processing topic: B-Feature-Topics\Feature3.htm...
 Applying template page Other-Topics.flmsp...
 Generated B-Feature-Topics\Feature3.htm
-Processing topic: A-Introduction-Topics\Getting-Started.htm...
-Applying template page Other-Topics.flmsp...
-Generated A-Introduction-Topics\Getting-Started.htm
-Processing topic: A-Introduction-Topics\Whats-New.htm...
-Applying template page Other-Topics.flmsp...
-Generated A-Introduction-Topics\Whats-New.htm
-Processing topic: A-Introduction-Topics\More-Information.htm...
-Applying template page Other-Topics.flmsp...
-Generated A-Introduction-Topics\More-Information.htm
 Processing topic: C-Procedure-Topics\Procedures.htm...
 Applying template page Other-Topics.flmsp...
 Generated C-Procedure-Topics\Procedures.htm
@@ -84,11 +120,48 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 9
-Output generated in 11 second(s).
+Output generated in 13 second(s).
 
 Done
-Saving log to "C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Output\kwitham\HTML5\HTML5.mclog"
+Saving log to "C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject1\Output\kwitham\HTML5\HTML5.mclog"
 </Messages>
-    <Warnings />
+    <Warnings>
+        <LogEntry File="../../../Content/A-Introduction-Topics/Getting-Started.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Getting-Started.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img7.png: ..\..\..\381FlareProject\Content\Resources\Images\img7.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img2.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img3.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img4.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img5.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img6.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img1.png: ..\..\..\381FlareProject\Content\Resources\Images\img1.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img2.png: ..\..\..\381FlareProject\Content\Resources\Images\img2.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img3.png: ..\..\..\381FlareProject\Content\Resources\Images\img3.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img4.png: ..\..\..\381FlareProject\Content\Resources\Images\img4.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img5.png: ..\..\..\381FlareProject\Content\Resources\Images\img5.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/Whats-New.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img6.png: ..\..\..\381FlareProject\Content\Resources\Images\img6.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Link points outside project file:///C:/Users/kwitham/OneDrive - University of Massachusetts/Documents/381-AVD/381FlareProject/Content/Resources/Images/img19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10056" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img8.png: ..\..\..\381FlareProject\Content\Resources\Images\img8.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img9.png: ..\..\..\381FlareProject\Content\Resources\Images\img9.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img10.png: ..\..\..\381FlareProject\Content\Resources\Images\img10.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img11.png: ..\..\..\381FlareProject\Content\Resources\Images\img11.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img12.png: ..\..\..\381FlareProject\Content\Resources\Images\img12.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img13.png: ..\..\..\381FlareProject\Content\Resources\Images\img13.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img14.png: ..\..\..\381FlareProject\Content\Resources\Images\img14.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img15.png: ..\..\..\381FlareProject\Content\Resources\Images\img15.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img16.png: ..\..\..\381FlareProject\Content\Resources\Images\img16.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img17.png: ..\..\..\381FlareProject\Content\Resources\Images\img17.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+        <LogEntry File="../../../Content/A-Introduction-Topics/More-Information.htm" Message="Failed to copy and resize image: C:\Users\kwitham\OneDrive - University of Massachusetts\Documents\381-AVD\381FlareProject\Content\Resources\Images\img19.png: ..\..\..\381FlareProject\Content\Resources\Images\img19.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="20010" />
+    </Warnings>
     <Errors />
 </MadCapLog>
