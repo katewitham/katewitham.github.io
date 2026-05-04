@@ -21,17 +21,13 @@ nav ul {
     gap: 4rem;
     flex-wrap: wrap;
     justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
     
 }
 
-ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 0;
-  
-}
-
-li {
+nav li {
     color: #000000;
     display: block;
     padding: 1rem;
@@ -44,10 +40,14 @@ li a {
     color: #000000;
 }
 
-li:hover,
-li:focus-within {
+li.main-nav:hover,
+li.main-nav:focus-within {
     background: #a3d1e0;
     cursor: pointer;
+}
+
+li.main-nav:active {
+    background: #d5d5d5;
 }
 
 li:focus-within a {
@@ -88,6 +88,21 @@ ul li ul li a {
     padding: 0.5rem 1rem;
 }
 
+/*social media icons*/
+ul.social-icons i {
+font-size: 1.3rem;
+color: #03749a;
+}
+
+ul.social-icons i:hover {
+    color: #a0a0a0
+}
+
+ul.social-icons {
+    gap: 0.8rem; 
+}
+
+
 /* Main Website Styling */
 header {
     display: grid;
@@ -102,16 +117,26 @@ footer {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     border-radius: .50rem;
     text-align: center;
-    padding: 1rem;
+    padding: 10px;
 }
 
 h1 {
-    color: #f0dac5;
+    color:#03749a;
     font-family: 'Italiana', 'times new roman', serif;
 }
 
+h2 {
+    color: #03749a;
+    font-family: 'Italiana', 'Times New Roman', serif;
+}
+
+h3 {
+    color: #03749a;
+    font-family: 'Italiana', 'Times New Roman', serif;
+}
+
 p {
-    font-family: 'DM Serif Display', 'times new roman', serif;
+    font-family: 'Raleway', Arial, sans-serif;
     color: #000000;
 }
 
@@ -146,7 +171,7 @@ h2.logo a {
 
 }
 
-/* Homepage Main Content Grid */
+/*Homepage*/
 main.homepage {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -202,7 +227,7 @@ img.homepage {
     width: 300px;
     height: auto;
 
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
 }
 
 body.homepage {
@@ -219,21 +244,23 @@ body.writingsamples {
 h2.writingsamples {
     font-family: 'Italiana', 'times new roman', serif;
     color: #03749a;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
 }
 
-main.writingsamples {
+.articles {
     display: grid;
-    grid-template-rows: 60px 1fr 1fr;
-    grid-template-columns: 1fr 1fr;
-    min-height: 75vh;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 400px));
+    gap: 40px;
+    justify-content: center;
+    padding: 2rem 1rem;
 }
+
 
 article.grantproposal,
 article.feasibilitystudy,
 article.wordmanual,
 article.accessibility {
-    display: flex;
-    flex-direction: column;
 
     background-color: #ffffffc2;
     text-align: center;
@@ -242,10 +269,8 @@ article.accessibility {
     margin: 10px;
     padding: 10px;
     margin-bottom: 40px;
-}
-
-article p:last-of-type {
-    margin-top: auto;
+    width: 400px;
+    max-width: 100%;
 }
 
 a.samples {
@@ -270,4 +295,87 @@ h1.samples {
     display: grid;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
+
+article.grantproposal p,
+article.feasibilitystudy p,
+article.wordmanual p,
+article.accessibility p {
+    padding: 15px
+}
+
+/*Resume*/
+body.resume {
+    background-image: url(../../images/backgroundimage.jpg);
+}
+
+ul.resume {
+    font-family: 'Raleway', Arial, sans-serif;
+}
+
+main.resume {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 45px 370px 40px 100px 40px 1fr;
+    gap: 20px;
+    align-items: start;
+    padding: 0 1rem;
+    min-height: 75vh;
+}
+
+h1.resume,
+h2.skills,
+h1.experience {
+    grid-column: 1 / -1;
+    text-align: center;
+}
+
+section.education {
+    grid-column: 1;
+
+    background-color: #ffffffb7;
+    border-radius: .25rem;
+    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    padding-left: 10px;
+
+    max-width: 100%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+section.coursework {
+    grid-column: 2;
+
+    background-color: #ffffffb7;
+    border-radius: .25rem;
+    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    padding: 10px;
+
+    
+    max-width: 100%;
+}
+
+section.skills {
+    grid-column: 1 / -1;
+    background-color: #ffffffb7;
+    border-radius: .25rem;
+    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    padding-left: 10px;
+}
+
+.experience {
+    grid-column: 1 / -1;
+}
+
+.experiencetext {
+    background-color: #ffffffb7;
+    border-radius: .25rem;
+    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+
