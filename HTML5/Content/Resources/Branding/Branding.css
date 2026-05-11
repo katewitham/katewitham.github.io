@@ -7,13 +7,13 @@
 	--Dark: #45494C;
 	--Darkest: #000000;
 	--Light: #DADEE1;
-	--Lightest: #FFFFFF;
 	--Medium: #A4AAAE;
 	--FontFamily: Arial, Avenir, Myriad;
 	--LogoImage: url('../Images/accessibility-logo.png');
 	--HeroImage: url('../Images/hero-image.png');
 	--LogoImagePrint: url('../Images/accessibility-logo.png');
 	--Secondary: #f5f5f5;
-	--Primary: #a9d6f6;
+	--Primary: #62a6d3;
+	--Lightest: #f5f5f5;
 }
 
