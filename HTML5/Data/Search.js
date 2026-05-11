@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Getting-Started.htm'],s:['0'],p:[['0',9],['image',7],['time',5]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-Introduction-Topics/Getting-Started.htm'],s:['+','list'],p:[['+',20],['can',22],['expands',4],['limitations',21],['readers',3],['time',22]]});
