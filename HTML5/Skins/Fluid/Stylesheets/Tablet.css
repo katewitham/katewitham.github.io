@@ -58,7 +58,7 @@
 		background-repeat: no-repeat;
 		padding-top: 15px;
 		padding-bottom: 15px;
-		background-color: #076685;
+		background-color: #a9d6f6;
 	}
 
 	/* Topbar Menu Styles */
@@ -85,10 +85,10 @@
 	{
 		top: 0;
 		margin: 0;
-		width: 229px;
-		height: 55px;
-		background: transparent url('Images/Logo.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
+		width: 186px;
+		height: 62px;
+		background: transparent url('Images/accessibility-logo.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/accessibility-logo.png') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
@@ -444,13 +444,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 55px;
+		min-height: 62px;
 		flex-basis: 100%;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 55px;
+		min-height: 62px;
 	}
 
 	.off-canvas-wrapper-inner .outer-row

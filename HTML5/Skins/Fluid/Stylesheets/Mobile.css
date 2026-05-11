@@ -6,15 +6,15 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #076685;
+		background-color: #a9d6f6;
 	}
 
 	.title-bar-layout a.logo
 	{
-		width: 229px;
-		height: 55px;
-		background: transparent url('Images/Logo.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Logo.png') no-repeat center center;
+		width: 186px;
+		height: 62px;
+		background: transparent url('Images/accessibility-logo.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/accessibility-logo.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -415,12 +415,12 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 55px;
+		min-height: 62px;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 55px;
+		min-height: 62px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
