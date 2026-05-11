@@ -6,12 +6,12 @@
 	{
 		background-position: center top;
 		background-repeat: no-repeat;
-		background-color: #a9d6f6;
+		background-color: #041d47;
 	}
 
 	.title-bar-layout a.logo
 	{
-		width: 186px;
+		width: 192px;
 		height: 62px;
 		background: transparent url('Images/accessibility-logo.png') no-repeat center center;
 		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/accessibility-logo.png') no-repeat center center;
@@ -27,7 +27,7 @@
 	{
 		background-position: center center;
 		background-repeat: no-repeat;
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-input
@@ -97,7 +97,7 @@
 	{
 		left: auto;
 		right: -25px;
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	div.central-dropdown-content > a
@@ -404,13 +404,13 @@
 
 	.knowledge-panel-container.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
-		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: linear-gradient(transparent 0%,#FFFFFF 100%);
-		-pie-background: linear-gradient(transparent, #FFFFFF);
+		background: -moz-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#f5f5f5));
+		background: -webkit-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -o-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: linear-gradient(transparent 0%,#f5f5f5 100%);
+		-pie-background: linear-gradient(transparent, #f5f5f5);
 	}
 
 	.title-bar-layout .logo-wrapper
@@ -643,13 +643,13 @@
 
 	.micro-content-proxy.knowledge.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
-		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: linear-gradient(transparent 0%,#FFFFFF 100%);
-		-pie-background: linear-gradient(transparent, #FFFFFF);
+		background: -moz-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#f5f5f5));
+		background: -webkit-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -o-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: linear-gradient(transparent 0%,#f5f5f5 100%);
+		-pie-background: linear-gradient(transparent, #f5f5f5);
 	}
 
 	.micro-content-proxy.promotion .micro-content-drop-down-button
@@ -839,7 +839,7 @@
 
 	.search-auto-complete ul
 	{
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-auto-complete li.auto-result-item a
@@ -979,18 +979,18 @@
 	.search-filter-content
 	{
 		top: 2em;
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-bar .search-filter-wrapper.open
 	{
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-bar .search-filter:hover
 	{
 		background-repeat: no-repeat;
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-bar .search-filter.selected
@@ -1001,12 +1001,12 @@
 
 	.search-filter-content ul li:hover
 	{
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	.search-filter-content ul li button:focus
 	{
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 
 	#resultList .glossary .definition
@@ -1122,13 +1122,13 @@
 
 	.featured-snippets-container.micro-content-truncated-mode .micro-content-expand-transition
 	{
-		background: -moz-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#FFFFFF));
-		background: -webkit-linear-gradient(top, transparent 0%, #FFFFFF 100%);
-		background: -o-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: -ms-linear-gradient(top, transparent 0%,#FFFFFF 100%);
-		background: linear-gradient(transparent 0%,#FFFFFF 100%);
-		-pie-background: linear-gradient(transparent, #FFFFFF);
+		background: -moz-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,transparent), color-stop(100%,#f5f5f5));
+		background: -webkit-linear-gradient(top, transparent 0%, #f5f5f5 100%);
+		background: -o-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: -ms-linear-gradient(top, transparent 0%,#f5f5f5 100%);
+		background: linear-gradient(transparent 0%,#f5f5f5 100%);
+		-pie-background: linear-gradient(transparent, #f5f5f5);
 	}
 
 	.featured-snippets-container .micro-response-title a
@@ -1226,7 +1226,7 @@
 	.skip-to-content
 	{
 		color: #45494C;
-		background-color: #FFFFFF;
+		background-color: #f5f5f5;
 	}
 }
 
