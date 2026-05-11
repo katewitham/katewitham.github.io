@@ -204,7 +204,7 @@ h1
 {
 	font-weight: bold;
 	font-size: 24.0pt;
-	color: #62a6d3;
+	color: #041d47;
 }
 
 h2
@@ -403,7 +403,7 @@ div.quick-links *	/*Text-align center set to all elements within div.quick-links
 div.topic-hero
 {
 	padding: 5%;
-	background-image: url('../Images/hero-image.png');
+	background-image: url('../Images/backgroundimg.png');
 	background-size: cover;
 	background-attachment: scroll;
 }
@@ -441,17 +441,17 @@ MadCap|breadcrumbsProxy
 
 a
 {
-	color: #62a6d3;
+	color: #041d47;
 }
 
 a:link
 {
-	color: #62a6d3;
+	color: #041d47;
 }
 
 a:visited
 {
-	color: #62a6d3;
+	color: #041d47;
 }
 
 MadCap|dropDown
@@ -491,7 +491,7 @@ MadCap|expandingHead
 	font-weight: normal;
 	cursor: hand;
 	text-decoration: none;
-	color: #62a6d3;
+	color: #041d47;
 }
 
 MadCap|xref
@@ -499,7 +499,7 @@ MadCap|xref
 	font-weight: bold;
 	mc-format: '{para}';
 	text-decoration: underline;
-	color: #62a6d3;
+	color: #041d47;
 }
 
 /* Lists */
@@ -545,7 +545,7 @@ p.frame-footer-text
 
 .page-layout-front-header
 {
-	background-color: #62a6d3;
+	background-color: #041d47;
 	height: 155px;
 	width: 825px;
 }
@@ -572,7 +572,7 @@ p.frame-footer-text
 	height: 275px;
 	margin: 0px;
 	background-color: #45494C;
-	background-image: url('../Images/hero-image.png');
+	background-image: url('../Images/backgroundimg.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -581,7 +581,7 @@ p.frame-footer-text
 
 div.home-footer
 {
-	background-color: #62a6d3;
+	background-color: #041d47;
 	padding: 2% 5%;
 }
 
