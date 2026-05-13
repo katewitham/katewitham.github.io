@@ -89,16 +89,16 @@ ul li ul li a {
 }
 
 /*social media icons*/
-ul.social-icons i {
+li.social-icons i {
 font-size: 1.3rem;
 color: #03749a;
 }
 
-ul.social-icons i:hover {
+li.social-icons i:hover {
     color: #a0a0a0
 }
 
-ul.social-icons {
+li.social-icons {
     gap: 0.8rem; 
 }
 
@@ -317,65 +317,81 @@ ul.resume {
 
 main.resume {
     display: grid;
+    grid-template-rows: 75px 1fr 200px 1fr;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 45px 370px 40px 100px 40px 1fr;
-    gap: 20px;
-    align-items: start;
-    padding: 0 1rem;
-    min-height: 75vh;
 }
 
-h1.resume,
-h2.skills,
-h1.experience {
-    grid-column: 1 / -1;
+h1.resume {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+h2.resume {
     text-align: center;
 }
-
 section.education {
-    grid-column: 1;
-
-    background-color: #ffffffb7;
+    background-color: #f9f9f9c1;
     border-radius: .25rem;
-    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
-    padding-left: 10px;
-
-    max-width: 100%;
-    display: grid;
-    justify-content: center;
-    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
 section.coursework {
-    grid-column: 2;
-
-    background-color: #ffffffb7;
+    background-color: #f9f9f9c1;
     border-radius: .25rem;
-    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    margin: 10px;
     padding: 10px;
-
-    
-    max-width: 100%;
+    padding-top: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
 section.skills {
-    grid-column: 1 / -1;
-    background-color: #ffffffb7;
+    background-color:#f9f9f9c1;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 3;
     border-radius: .25rem;
-    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
-    padding-left: 10px;
-}
-
-.experience {
-    grid-column: 1 / -1;
-}
-
-.experiencetext {
-    background-color: #ffffffb7;
-    border-radius: .25rem;
-    box-shadow: 0 4px 10px rgba(5, 5, 5, 0.1);
+    margin: 10px;
     padding: 10px;
-    margin-bottom: 20px;
+    padding-top: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
+section.experience {
+    background-color: #f9f9f9c1;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    border-radius: .25rem;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
 
+li.resume {
+    font-family: 'Raleway', Arial, sans-serif;
+}
+
+/*About*/
+body.about {
+    background-image: url("../../images/backgroundimage.jpg");
+}
+.headshot {
+    float: right;
+    width: 300px;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+main.about {
+    margin: 15px;
+}
